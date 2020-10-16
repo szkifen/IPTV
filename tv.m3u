@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1,滨海新闻
+http://60.30.52.41/live/bhtv1/playlist.m3u8
+#EXTINF:-1,滨海生活
+http://60.30.52.41/live/bhtv2/playlist.m3u8
+#EXTINF:-1,西青新闻
+http://221.238.209.44:81/hls/live1.m3u8
